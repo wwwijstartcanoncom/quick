@@ -1,6 +1,15 @@
 How to Download Quicken Already Purchased – Complete Activation
 ================================================================
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Download Quicken Now
+        </a>
+    </div>
+
+
 If you’ve already purchased Quicken and are wondering how to download and activate it again, you’re in the right place. Whether you're reinstalling after a system reset, upgrading your PC, or switching devices, this guide will walk you through how to securely download Quicken and activate your subscription — without having to repurchase anything.
 
 🔍 Who Is This Guide For?
@@ -18,7 +27,7 @@ This guide is for:
 
 Before you download Quicken:
 
-- Make sure your system meets the [Quicken system requirements](https://www.quicken.com/support/quicken-system-requirements)
+- Make sure your system meets the `Quicken system requirements <https://www.quicken.com/support/quicken-system-requirements>`_
 - Have your `Quicken ID <https://www.quicken.com/sign-in>`_ (email + password) ready
 - Ensure a stable internet connection
 - Uninstall any older Quicken versions to avoid conflicts (optional)
@@ -113,7 +122,7 @@ Reinstalling or transferring Quicken is simple when you use the correct steps. T
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com/download" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken Now
         </a>
     </div>
